@@ -1,6 +1,6 @@
 # PHP Console Cleaner
 
-Clear text from the console.
+Clear a text from the console.
 
 ## Instalation
 
