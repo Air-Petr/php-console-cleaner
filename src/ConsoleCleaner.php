@@ -5,6 +5,10 @@ namespace AirPetr;
 class ConsoleCleaner
 {
     /**
+     * Clean console.
+     *
+     * Use ANSI Escape Sequences.
+     *
      * @param int $numberOfLines
      * @return void
      */
