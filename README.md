@@ -4,7 +4,7 @@ Clear text from the console.
 
 ## Instalation
 
-``composer require ar-petr/php-console-cleaner``
+``composer require air-petr/php-console-cleaner``
 
 ## Usage
 
